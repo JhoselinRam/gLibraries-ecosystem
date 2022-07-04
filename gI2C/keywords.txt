@@ -1,0 +1,14 @@
+##############################################
+##	Keywords for the gI2C function library  ##
+##############################################
+
+############### Functions ####################
+
+readBit			KEYWORD2
+readBits		KEYWORD2
+readRegister	KEYWORD2
+readRegisters	KEYWORD2
+writeBit		KEYWORD2
+writeBits		KEYWORD2
+writeRegister	KEYWORD2
+writeRegisters	KEYWORD2
