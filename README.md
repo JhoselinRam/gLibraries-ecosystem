@@ -1,6 +1,6 @@
 # gLibraries ecosystem
 
-This is a collection of Arduino libraries aimed to simplify the usage of several sensors, it uses a base class and common functions to hide the low level logic from the user, bussting the develop time to get the proyects done faster.
+This is a collection of Arduino libraries aimed to simplify the usage of several sensors, it uses a base class and common functions to hide the low level logic from the user, boosting the develop time to get the proyects done faster.
 
 `note`: The collection is dependent of the dynamicVector library, that can be find [here](https://github.com/JhoselinRam/dynamicVector)
 
